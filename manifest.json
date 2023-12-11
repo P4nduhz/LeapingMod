@@ -4,6 +4,6 @@
     "website_url": "https://github.com/P4nduhz",
     "description": "The Leaping Mod allows you to jump slightly higher which is pretty convenient.",
     "dependencies": [
-        ""
+        "BepInEx-BepInExPack-5.4.2100"
     ]
 }
